@@ -1,5 +1,3 @@
 # Primer repositorio 
 
-
-
-pandas
+- se agregaron notas
